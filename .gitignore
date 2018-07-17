@@ -3,7 +3,7 @@
 .idea/modules.xml
 /data-cache
 logs/
-
+test/
 node_modules/
 package-lock.json
 node_modules/.bin/*
