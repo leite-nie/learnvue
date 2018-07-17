@@ -5,7 +5,7 @@
         babel-core  babel-helper-vue-jsx-merge-props babel-loader babel-plugin-syntax-jsx babel-plugin-transform-runtime babel-plugin-transform-vue-jsx babel-polyfill babel-preset-es2015 babel-preset-flow-vue css-loader extract-text-webpack-plugin file-loader html-webpack-plugin less less-loader style-loader url-loader vue-loader vue-template-compiler
 
 
-
+//fdafd
 
         gulp :
         browser-sync glob fs gulp-autoprefixer gulp-buffer gulp-callback gulp-chinese2unicode gulp-clean-css gulp-debug gulp-htmlclean gulp-imagemin gulp-include gulp-inline-source gulp-less gulp-load-plugins gulp-rename gulp-rev-collector-v gulp-rev-v gulp-sequence gulp-uglify gulp-util gulp-watch-path gulp.spritesmith gulp.spritesmith-multi
